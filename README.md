@@ -3,6 +3,8 @@ Do you enjoy intellectual challenges that involve quick thinking and tactical th
 
 Block Blast, with its easy but tough action, transports players to a universe filled with bright blocks waiting to be flawlessly organized. Your goal is to become a block-breaking master, converting seemingly random pieces into entire combinations to score points and increase the playing field. Let's look at what makes Block Blast such a memorable puzzle experience!
 
+![block_blast.JPG](https://github.com/blockblastsocial/blockblastsocial/blob/c29cbcdf84ab97d7d53822f55b0d59924af7e9a3/block_blast.JPG)
+
 ## 1. Simple yet strategic gameplay
 ### Arrange Blocks, Clear Rows, and Create Combos
 Block Blast features a classic gameplay mechanic but is augmented with additional aspects. On an 8x8 grid, you'll move and rotate various geometric blocks to fill each row. When a row is completed, it disappears in a stunning explosion effect, making room for the next blocks.
